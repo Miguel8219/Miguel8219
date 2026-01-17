@@ -1,4 +1,4 @@
-## 🚀 Sobre Mim
+##  Sobre Mim
 
 Sou **Matemático Aplicado** formado pela **FGV** (Fundação Getulio Vargas), apaixonado por **Ciência de Dados** e **Análise Estatística**. Trabalho com problemas complexos que envolvem modelagem matemática, análise exploratória de dados e implementação de soluções em ambientes produtivos.
 
@@ -50,11 +50,3 @@ Sou **Matemático Aplicado** formado pela **FGV** (Fundação Getulio Vargas), a
 Acompanhe meus repositórios para ver no que estou trabalhando. Todos os meus projetos públicos estão disponíveis neste perfil!
 
 ---
-
-<div align="center">
-
-### ⭐ Se você gostou do meu trabalho, considere dar uma estrela nos repositórios!
-
-**Obrigado por visitar meu perfil!** 🙏
-
-</div>
